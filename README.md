@@ -32,9 +32,9 @@ cd resume_builder
 
 The application is currently hosted on AWS to ensure reliable and scalable access. It is deployed as a static website using Amazon S3 (Simple Storage Service). You can access the live application at the following URL:
 
-```plaintext
+
 http://resumebulider.s3-website-ap-northeast-1.amazonaws.com/
-```
+
 
 To host this project on your own AWS account, follow these steps:
 
