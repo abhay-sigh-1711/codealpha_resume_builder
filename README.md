@@ -1,13 +1,10 @@
 # codealpha_resume_builder
 
-![Resume Builder](resume_builder_screenshot.png)
-
 Welcome to the Resume Builder project! This project is a web application that allows users to create professional resumes using a simple and intuitive interface. The application is built using HTML, CSS, and JavaScript, and it is hosted on AWS (Amazon Web Services).
 
 ## Features
 
 - User-friendly interface: The resume builder provides a user-friendly interface that allows users to create, edit, and preview their resumes easily.
-- Multiple resume templates: Choose from a variety of professionally designed resume templates to make your resume stand out.
 - Real-time editing: The application supports real-time editing, so you can see changes to your resume as you make them.
 - Save and download: Once you're satisfied with your resume, you can save it and download it as a PDF file.
 
@@ -22,7 +19,7 @@ git clone https://github.com/your-username/resume-builder.git
 2. **Navigate to the project folder:** Change into the project directory using the `cd` command:
 
 ```bash
-cd resume-builder
+cd resume_builder
 ```
 
 3. **Open index.html:** To use the application, simply open the `index.html` file in your web browser. The application should load, and you can start building your resume right away.
@@ -36,7 +33,7 @@ cd resume-builder
 The application is currently hosted on AWS to ensure reliable and scalable access. It is deployed as a static website using Amazon S3 (Simple Storage Service). You can access the live application at the following URL:
 
 ```plaintext
-http://your-aws-s3-bucket-url/resume-builder/index.html
+http://resumebulider.s3-website-ap-northeast-1.amazonaws.com/
 ```
 
 To host this project on your own AWS account, follow these steps:
@@ -53,15 +50,10 @@ To host this project on your own AWS account, follow these steps:
 
 We welcome contributions to this project. If you find any bugs, have suggestions for improvements, or want to add new features, feel free to create a pull request. Please make sure to follow the coding conventions and provide detailed information about the changes you propose.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project for personal and commercial purposes.
-
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact the project maintainers:
+If you have any questions or need further assistance, feel free to contact me:
 
-- John Doe (john.doe@example.com)
-- Jane Smith (jane.smith@example.com)
+- Abhay Singh (abhay73abahy@gmail.com)
 
 Thank you for using the Resume Builder project! We hope it helps you create impressive resumes with ease. Happy job hunting!
